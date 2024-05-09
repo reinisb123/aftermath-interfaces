@@ -6,7 +6,7 @@ published-at = "0x2d9316f1f1a95f6d7c85a4e690ef7c359e6649773ef2c37ad7d9857adb6bef
 [dependencies.Sui]
 git = "https://github.com/MystenLabs/sui.git"
 subdir = "crates/sui-framework/packages/sui-framework"
-rev = "framework/mainnet"
+rev = "mainnet-v1.23.1"
 
 [dependencies.InsuranceFund]
 local = "../amm-insurance-fund"
